@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Set API key
+# Set API key #enter your appropriate key 
 API_key = '8f0d8e18eace091d3523bd922a52b137'
 
 # Cities to find  data for
